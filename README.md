@@ -1,7 +1,7 @@
-# DSA-mod-16
+# Data Structures Using Python-mod-16
 
 # AIM:
-    To construct an AVL tree using the elements 10, 20, 30, 40, 50, and 25, and print the nodes using appropriate built-in functions.
+To construct an AVL tree using the elements 10, 20, 30, 40, 50, and 25, and print the nodes using appropriate built-in functions.
 # ALGORITHM:
 step 1: Define a class for AVL tree nodes that includes data, height, left, and right pointers.
 
@@ -9,11 +9,10 @@ step 2: Implement AVL tree insertion which maintains the height-balanced propert
 
 step 3: Define utility functions such as:
 
-    * Getting height of a node.
+a] Getting height of a node.
 
-    * Right and left rotations.
-
-   *  Getting balance factor.
+b] Right and left rotations.
+c] Getting balance factor.
 
 step 4: Insert the elements: 10, 20, 30, 40, 50, 25.
 
